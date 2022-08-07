@@ -1,0 +1,3 @@
+{:hooks
+ {:analyze-call
+  {clj-kondo-tag-nil.core/defstackfn hooks.defs/defstackfn}}}

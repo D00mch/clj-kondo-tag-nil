@@ -1,0 +1,1 @@
+["^ ","~$defstackfn",["^ ","~:row",3,"~:col",1,"~:macro",true,"~:varargs-min-arity",0,"~:name","^0","~:ns","~$clj-kondo-tag-nil.core","~:top-ns","^7"],"~$f",["^ ","^1",null,"^2",null,"~:fixed-arities",["~#set",[1]],"^5","~$f","^6","^7","^8","^7"],"~:filename","src/clj_kondo_tag_nil/core.clj"]
